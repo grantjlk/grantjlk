@@ -1,4 +1,11 @@
-### 
+# Hi, my name is Grant :)
+- ## Currently Working On :
+  - Poker project which explores current probabilities and simulates play
+ 
+    
+- ## Languages :
+  - Java, C++, C, Python
+
 
 <!--
 **grantjlk/grantjlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
