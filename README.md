@@ -1,6 +1,7 @@
 # Hi, my name is Grant :)
 - ## Currently Working On :
-  - Poker project which explores current probabilities and simulates play
+  - Personal website
+  - Audio visualizer that updates live
  
     
 - ## Languages :
