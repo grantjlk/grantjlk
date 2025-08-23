@@ -4,17 +4,13 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Illino
 
 ---
 
-## 🛠️ Main Skills
-
-<!-- You can use shields.io badges or icons here for a cleaner look -->
-
 ## ​ Main Skills
 
-![My Skills](https://skillicons.dev/icons?i=cpp,java,python,c)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,java,git,html,css)
 
 ## ​ Studying / Learning
 
-![Learning](https://skillicons.dev/icons?i=html,css,js&theme=light)
+![Learning](https://skillicons.dev/icons?i=js,python&theme=light)
 
 
 ---
