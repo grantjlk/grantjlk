@@ -8,19 +8,14 @@ Welcome to my GitHub! I'm a Computer Science student at the University of Illino
 
 <!-- You can use shields.io badges or icons here for a cleaner look -->
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
+## ​ Main Skills
 
----
+![My Skills](https://skillicons.dev/icons?i=cpp,java,python,c)
 
-## 📚 Studying / Learning
+## ​ Studying / Learning
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![WebDev](https://img.shields.io/badge/Web%20Dev-Beginner-26A69A?style=flat)
+![Learning](https://skillicons.dev/icons?i=html,css,js&theme=light)
+
 
 ---
 
