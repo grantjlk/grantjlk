@@ -1,4 +1,4 @@
-# Hi, my name is Grant :) 👋
+# Hi, my name is Grant :)
 
 Welcome to my GitHub! I'm a Computer Science student at the University of Illinois Chicago currently building my skills and figuring out what type of developer I want to become. Right now I’m really enjoying working on backend logic, performance-focused code, and creative coding projects.
 
