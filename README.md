@@ -12,9 +12,6 @@ systems mindset to AI agent infrastructure.
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,python,cmake,java,git,html,css)
 
-## Learning
-![Learning](https://skillicons.dev/icons?i=js,rust&theme=light)
-
 ---
 
 ## Currently Working On
