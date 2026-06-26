@@ -26,26 +26,26 @@ C++ with OpenGL and FFTW.
 
 ---
 
-Thanks for stopping by — feel free to reach out:
-📫 [grantjlk@gmail.com](mailto:grantjlk@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/grantlk)
+## Project Showcase
 
-<!-- Future section idea -->
-<!--
-## 🧩 Project Showcase
+### 🎧 Real-Time Audio Visualizer
+> Low-latency audio visualization in C++ with lock-free threading, FFT analysis,
+> and OpenGL rendering sustaining 60+ FPS under load.
 
-### 🎮 Interactive Map Pathfinder
-> A graph-based route planner built in C++, parsing real-world GeoJSON data and computing shortest paths using Dijkstra’s and A*.
+<img src="https://raw.githubusercontent.com/grantjlk/grantAudioVisualizer/main/assets/demo.gif" width="400"/>
 
-[🔗 View Repository](https://github.com/yourusername/map-pathfinder)
-![Demo GIF](link-to-demo.gif)
+[🔗 View Repository](https://github.com/grantjlk/grantAudioVisualizer)
 
 ---
 
+### ⚡ NGS-MPI: Distributed Graph Algorithms
+> End-to-end distributed pipeline in C++ and OpenMPI across 1–8 ranks,
+> implementing distributed Dijkstra's and FloodMax leader election with
+> validated correctness across 11 tests.
 
--->
+[🔗 View Repository](https://github.com/grantjlk/ngs-mpi-project)
 
-
+---
 
 Thanks for stopping by! Feel free to connect with me:
 
