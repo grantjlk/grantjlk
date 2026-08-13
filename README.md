@@ -1,8 +1,9 @@
 # Hi, I'm Grant
 
-I'm a senior CS student at UIC (graduating December 2026) currently interning as a 
-research engineer working on automated vulnerability repair, building pipelines that 
-use LLM agents to find and patch real-world security bugs in open source software.
+I'm a senior CS student at UIC (graduating December 2026). This summer I worked
+as a research intern in UIC's SySec lab on automated vulnerability repair,
+building pipelines that use LLM agents to find and patch real-world security
+bugs in open source software.
 
 I'm into systems programming, performance-focused code, and lately, applying that 
 systems mindset to AI agent infrastructure.
@@ -10,16 +11,16 @@ systems mindset to AI agent infrastructure.
 ---
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=cpp,c,python,cmake,java,git,html,css)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,python,docker,linux,cmake,java,git)
 
 ---
 
 ## Currently Working On
-- **Automated Vulnerability Repair** – Research internship at UIC's SySec lab. 
-Building evaluation harnesses and LLM agent pipelines that automatically patch 
-OSS-Fuzz vulnerabilities, using Claude, OSS-CRS, and Docker.
-- **Live Audio Visualizer** – Real-time audio processing and visualization in 
-C++ with OpenGL and FFTW.
+- **Automated Vulnerability Repair** – Extending my summer research at UIC's
+SySec lab: evaluation harnesses and LLM agent pipelines that automatically
+patch OSS-Fuzz vulnerabilities, using Claude, OSS-CRS, and Docker.
+- **Job Hunt** – Looking for full-time systems/backend C++ roles starting
+December 2026 or later. Say hi.
 
 ---
 
