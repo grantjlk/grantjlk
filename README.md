@@ -16,11 +16,16 @@ systems mindset to AI agent infrastructure.
 ---
 
 ## Currently Working On
-- **Automated Vulnerability Repair** – Extending my summer research at UIC's
-SySec lab: evaluation harnesses and LLM agent pipelines that automatically
-patch OSS-Fuzz vulnerabilities, using Claude, OSS-CRS, and Docker.
+- **[Real-Time Audio Visualizer](https://github.com/grantjlk/grantAudioVisualizer)** – Multithreaded
+C++ audio visualizer (OpenGL, PortAudio, FFTW) with a lock-free audio pipeline and built-in perf
+instrumentation: 0 audio dropouts and ~0.3% of the frame budget used. Next up: my own lock-free
+SPSC ring buffer, benchmarked against PortAudio's.
 - **Job Hunt** – Looking for full-time systems/backend C++ roles starting
 December 2026 or later. Say hi.
+
+## Previously
+- **Automated Vulnerability Repair** – Summer research at UIC's SySec lab: evaluation harnesses
+and LLM agent pipelines that automatically patch OSS-Fuzz vulnerabilities (Claude, OSS-CRS, Docker).
 
 ---
 
