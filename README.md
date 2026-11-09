@@ -37,7 +37,7 @@ and LLM agent pipelines that automatically patch OSS-Fuzz vulnerabilities (Claud
 > and OpenGL rendering. Audio moves between threads through a custom SPSC ring buffer,
 > about 10x faster than its first version and clean under ThreadSanitizer.
 
-<img src="https://raw.githubusercontent.com/grantjlk/grantAudioVisualizer/main/assets/demo.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/grantjlk/grantAudioVisualizer/main/assets/demo.gif" width="300"/>
 
 [🔗 View Repository](https://github.com/grantjlk/grantAudioVisualizer) · [📄 Ring buffer write-up](https://github.com/grantjlk/grantAudioVisualizer/blob/main/docs/ring-buffer.md)
 
@@ -48,7 +48,7 @@ and LLM agent pipelines that automatically patch OSS-Fuzz vulnerabilities (Claud
 > of a million-node graph. Up to 2.7x faster than sequential Dijkstra on 6 cores,
 > verified exact against it.
 
-<img src="https://raw.githubusercontent.com/grantjlk/distributed-sssp-mpi/main/experiments/figures/speedup.png" width="350"/> 
+<img src="https://raw.githubusercontent.com/grantjlk/distributed-sssp-mpi/main/experiments/figures/speedup.png" width="300"/> 
 
 [🔗 View Repository](https://github.com/grantjlk/distributed-sssp-mpi)
 
