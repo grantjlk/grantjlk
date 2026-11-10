@@ -32,7 +32,7 @@ and LLM agent pipelines that automatically patch OSS-Fuzz vulnerabilities (Claud
 
 ## Project Showcase
 
-### 🎧 Real-Time Audio Visualizer
+### Real-Time Audio Visualizer
 > Low-latency audio visualization in C++ with lock-free threading, FFT analysis,
 > and OpenGL rendering. Audio moves between threads through a custom SPSC ring buffer,
 > about 10x faster than its first version and clean under ThreadSanitizer.
@@ -43,7 +43,7 @@ and LLM agent pipelines that automatically patch OSS-Fuzz vulnerabilities (Claud
 
 ---
 
-### ⚡ Distributed Shortest Paths with MPI
+### Distributed Shortest Paths with MPI
 > Delta-stepping shortest paths in C++ and OpenMPI, where each rank loads only its slice
 > of a million-node graph. Up to 2.7x faster than sequential Dijkstra on 6 cores,
 > verified exact against it.
