@@ -19,8 +19,7 @@ systems mindset to AI agent infrastructure.
 - **[Real-Time Audio Visualizer](https://github.com/grantjlk/grantAudioVisualizer)** – Multithreaded
 C++ audio visualizer (OpenGL, PortAudio, FFTW) with a lock-free audio pipeline built on my own SPSC
 ring buffer, benchmarked against PortAudio's. 0 audio dropouts and ~0.3% of the frame budget used.
-- **[Distributed Shortest Paths](https://github.com/grantjlk/distributed-sssp-mpi)** – Delta-stepping
-in C++ and OpenMPI on million-node graphs, measuring where communication limits scaling.
+- **[Distributed Shortest Paths](https://github.com/grantjlk/distributed-sssp-mpi)** – Delta-stepping in C++ and OpenMPI on million-node graphs, including tracing a 2.8x slowdown to memory locality rather than communication.
 - **Job Hunt** – Looking for full-time systems/backend C++ roles starting
 December 2026 or later. Say hi.
 
